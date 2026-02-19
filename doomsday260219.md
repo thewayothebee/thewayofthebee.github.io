@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Doomsday"
+layout: default
+title: Doomsday
 date: 2026-02-19
 ---
 
